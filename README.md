@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hi everyone!
 
 Perkenalkan nama saya **Wawan**.\
 
