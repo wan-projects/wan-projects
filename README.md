@@ -1,4 +1,4 @@
-![Master](https://cloud.google.com/docs/get-started/images/banner.gif)
+![Master](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi there 👋, my name is Wawan</h1>
 <h3 align="center">I'm an Undergraduate Informatic Student at National University</h3>
 
