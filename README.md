@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/wawn11_" target="blank"><img src="https://img.shields.io/twitter/follow/wawn11_?logo=twitter&style=for-the-badge" alt="wawn11_" /></a> </p>
 
-- 🔭 I’m currently working on **ACE Certification Preparation.**
+- 🔭 I’m currently working on **Beasiswa Lintasarta Cloudeka Digischool.**
 
-- 🌱 I’m currently learning **Google Cloud Computing.**
+- 🌱 I’m currently learning **Belajar Machine Learning untuk Pemula.**
 
 - 👯 I’m looking to collaborate on **...**
 
